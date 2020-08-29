@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://princeibk:chelseafc@cluster0.7cctp.mongodb.net/devconnect?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "fedb3d9115425b0c0c11",
+  "githubSecret": "94fdaaed0c9d23f648a30fe534f1f1adc4c73ed0"
 }
